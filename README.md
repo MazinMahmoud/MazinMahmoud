@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 machine learning engineer
 -------------------------
 
-I am sophomore student in ainshams ,I have passion for Ai and follow its latest updates ,I have strong mathematical fundamentals and programing as in data structure and algorithms and have worked on a lot of data science notebooks from analyzing the data to implementing various machine learning models
+I am a dedicated student specializing in the field of artificial intelligence, with a passion for exploring machine learning, neural networks, and data science. My academic journey has equipped me with a solid foundation in AI principles and hands-on experience with cutting-edge technologies. I am committed to leveraging AI to solve real-world problems and contribute to innovative advancements in this rapidly evolving field.
 
 *   🌍  I'm based in cairo,Egypt
 *   ✉️  You can contact me at [mazinsaleh55@icloud.com](mailto:mazinsaleh55@icloud.com)
